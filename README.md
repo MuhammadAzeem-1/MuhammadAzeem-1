@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node.js & MERN Stack<br>👯 I’m looking to collaborate on frontend development<br>🤝 I’m looking for help with developing Algorithms in Node/javascript<br>🌱 I’m currently learning Next.js & Typescript<br>💬 Ask me anything about React, Javascript, FrontEnd, CSS, and Databases<br>⚡ Fun fact -  I never stop learning
+🔭 I’m currently working on React & MERN Stack<br>👯 I’m looking to collaborate on frontend development<br>🤝 I’m looking for help with developing Algorithms in Node/javascript<br>🌱 I’m currently learning Next.js & Typescript<br>💬 Ask me anything about React, Javascript, FrontEnd, CSS, and Databases<br>⚡ Fun fact -  I never stop learning
 
 
 ## 🌐 Socials:

@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=MuhammadAzeem-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on React & MERN Stack<br>👯 I’m looking to collaborate on frontend development<br>🤝 I’m looking for help with developing Algorithms in Node/javascript<br>🌱 I’m currently learning Next.js & Typescript<br>💬 Ask me anything about React, Javascript, FrontEnd, CSS, and Databases<br>⚡ Fun fact -  I never stop learning
+🔭 I’m currently working on React & MERN Stack<br>👯 I’m looking to collaborate on frontend development<br>🤝 I’m looking for help with developing Algorithms in Node/javascript<br>🌱 I’m currently learning AWS, Redis & GraogQL<br>💬 Ask me anything about React, Javascript, FrontEnd, CSS, Nodes and Nextjs<br>⚡ Fun fact -  I never stop learning
 
 
 <h3 align="left">Connect with me:</h3>

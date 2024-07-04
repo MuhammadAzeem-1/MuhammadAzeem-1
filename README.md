@@ -29,10 +29,7 @@
      <img align="center" alt="coding" width="300" src="https://github.com/MuhammadAzeem-1/MuhammadAzeem-1/blob/main/project.png">
      <p >React Native Decentralized Storage App</p>
    </div>
-   <div align="center">
-     <img align="center" alt="coding" width="300" src="https://github.com/MuhammadAzeem-1/MuhammadAzeem-1/blob/main/project.png">
-     <p >React Native Decentralized Storage App</p>
-   </div>
+
      
   </div>
 <br>

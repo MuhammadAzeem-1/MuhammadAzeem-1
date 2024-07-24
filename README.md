@@ -42,9 +42,9 @@
 <br>
 <br>
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadazeem-1&show_icons=true&locale=en&layout=compact" alt="muhammadazeem-1" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadazeem-1&show_icons=true&locale=en&layout=compact" alt="muhammadazeem-1" />
 
-<br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 

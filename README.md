@@ -41,9 +41,6 @@
   </div>
 <br>
 <br>
-# 📊 GitHub Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadazeem-1&show_icons=true&locale=en&layout=compact" alt="muhammadazeem-1" />
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -51,6 +48,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadAzeem-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 📊 GitHub Stats:
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadazeem-1&show_icons=true&locale=en&layout=compact" alt="muhammadazeem-1" />
 
 
 
